@@ -154,6 +154,10 @@ header .inner-header nav ul li a{
     margin-top: 50px;
     margin-bottom: 40px;
 }
+.collection .populer{
+    font-size: 28px;
+    text-align: center;
+}
 
 .collection .see-more {
     width: 70%;

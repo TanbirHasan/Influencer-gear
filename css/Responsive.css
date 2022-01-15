@@ -149,6 +149,10 @@
     .inner-influence .image img{
         padding: 0px;
     }
+    .collection .populer {
+        font-size: 16px;
+        text-align: center;
+    }
     .logo-image {
         display: flex;
         flex-wrap: wrap;
